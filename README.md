@@ -4,8 +4,8 @@ Senior Product Manager at Weekend, a Series C AI voice and entertainment
 company, where I lead an AI agent harness that builds shippable games.
 
 Before Weekend: VP of Product at a Series B streaming startup at 3.6M MAU,
-founding PM on a #1 iOS game, and product for a 180M-subscriber franchise.
-Seven products taken 0 to 1.
+founding PM on a #1 iOS game, and product lead for a title built on a
+180M-subscriber franchise. Seven products taken 0 to 1.
 
 I direct fleets of coding agents and stay in the engineering myself. The
 direction, the standards and the evals are mine. Increasingly the typing is not.
