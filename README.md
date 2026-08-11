@@ -12,33 +12,32 @@ direction, the standards and the evals are mine. Increasingly the typing is not.
 
 ## Things I build on my own time
 
-**[Raretta](https://raretta.com)** · an autonomous car-buying agent
+**[Raretta](https://raretta.com)** · an autonomous car-buying agent<br>
 Name a car and a ceiling. It hunts dealer inventory around the clock and
 negotiates with dealers by email while you do nothing. The interesting part is
-the restraint: it blocks its own email when the model invents a price, sending
-nothing rather than something generic, and no deposit, credit pull, signature
-or booking happens without a person approving that specific act.
+the restraint: it blocks its own email when the model invents a price, and no
+deposit, credit pull or signature happens without a person approving that act.
 
-**[Tellspike](https://tellspike.com)** · an on-device AI assistant for iPhone
+**[Tellspike](https://tellspike.com)** · an on-device AI assistant for iPhone<br>
 Ask it anything without the question leaving your phone. When it does reach the
-cloud, it sends an anonymized rewrite, and every cloud message carries a receipt
-of the exact text that left the device. The privacy claim is checkable rather
-than asserted. Local memory runs on animachord, so the model on your phone
-learns you and the people in your life while the cloud learns nothing.
+cloud it sends an anonymized rewrite, and every cloud message carries a receipt
+of the exact text that left, so the privacy claim is checkable rather than
+asserted. Local memory runs on animachord, so the model on your phone learns
+you and the people in your life while the cloud learns nothing.
 
-**animachord** · a Python SDK for AI characters
+**animachord** · a Python SDK for AI characters<br>
 Characters that remember you, decide whether they trust you, and gossip about
 each other behind your back. Built on published psychology: Big Five traits,
 attachment theory, Gottman ratios, Ebbinghaus memory decay. The relationship
 engine is deliberately LLM-free, so trust arcs stay reproducible and testable.
 
-**Tosskeep** · an asset compiler for game developers
+**Tosskeep** · an asset compiler for game developers<br>
 Describe any game asset, get engine-ready output. An AI quality gate decides
 what is good enough to keep, and a meta-evaluation grades the judges themselves
 against human verdicts.
 
 **[existentialburn-cli](https://github.com/seanacres/existentialburn-cli)** ·
-Claude Code usage stats
+Claude Code usage stats<br>
 Runs entirely on your machine. No prompt or code content leaves it.
 
 Most of these repos are private while the products are pre-launch. The links go
