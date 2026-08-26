@@ -32,9 +32,9 @@ attachment theory, Gottman ratios, Ebbinghaus memory decay. The relationship
 engine is deliberately LLM-free, so trust arcs stay reproducible and testable.
 
 **Tosskeep** · an asset compiler for game and app developers<br>
-Describe an asset, get back a packed atlas, an Xcode catalog, or Unity and
-Godot files. An AI quality gate decides what is good enough to keep, and a
-meta-evaluation grades the judges themselves against human verdicts.
+Describe any asset your game or app needs and get it back engine-ready, from a
+sprite sheet to a rigged character to the sound it makes. The quality gate
+throws out what is not good enough, so what reaches you is the keep.
 
 **[existentialburn-cli](https://github.com/seanacres/existentialburn-cli)** ·
 Claude Code usage stats<br>
