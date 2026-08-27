@@ -8,7 +8,7 @@ founding PM on a #1 trivia game on iOS, and product lead for a title built on a
 180M-subscriber franchise. Seven products taken 0 to 1.
 
 I direct fleets of coding agents and stay in the engineering myself. The
-direction, the standards and the evals are mine. Increasingly the typing is not.
+direction, the standards and the evals are mine.
 
 ## Things I build on my own time
 
