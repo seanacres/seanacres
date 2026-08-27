@@ -31,7 +31,7 @@ each other behind your back. Built on published psychology: Big Five traits,
 attachment theory, Gottman ratios, Ebbinghaus memory decay. The relationship
 engine is deliberately LLM-free, so trust arcs stay reproducible and testable.
 
-**Tosskeep** · an asset compiler for game and app developers<br>
+**Tosskeep** · an AI asset generator for game and app developers<br>
 Describe any asset your game or app needs and get it back engine-ready, from a
 sprite sheet to a rigged character to the sound it makes. The quality gate
 throws out what is not good enough, so what reaches you is the keep.
