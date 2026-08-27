@@ -18,7 +18,7 @@ opens the negotiation by email, inside limits you set. The interesting part is
 the restraint: it blocks its own email when the model invents a price, and no
 deposit, credit pull or signature happens without a person approving that act.
 
-**[Tellspike](https://tellspike.com)** · an on-device AI assistant for iPhone<br>
+**[Tellspike](https://tellspike.com)** · local AI for iPhone<br>
 Ask it anything without the question leaving your phone. When it does reach the
 cloud it sends an anonymized rewrite, and every cloud message carries a receipt
 of the exact text that left, so the privacy claim is checkable rather than
